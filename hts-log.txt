@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 21 Sep 2023 10:00:42 at https://demo.testfire.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.testfire.net/ -O1 "D:\HTTRack Prj\Testfire" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:02:23	Error: 	"Not Found" (404) at link https://demo.testfire.net/cgi.exe (from https://demo.testfire.net/)
+10:02:45	Error: 	"Not Found" (404) at link https://demo.testfire.net/default.jsp?content=security.htm (from https://demo.testfire.net/)
+10:02:59	Error: 	"Not Found" (404) at link https://demo.testfire.net/comments.txt (from https://demo.testfire.net/feedback.jsp)
+10:03:02	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link demo-analytics.testfire.net/urchin.js (from https://demo.testfire.net/index.jsp?content=personal_investments.htm)
+10:03:07	Error: 	"Not Found" (404) at link https://demo.testfire.net/my documents/JohnSmith/Bank Site Documents/grouplife.htm (from https://demo.testfire.net/index.jsp?content=business_insurance.htm)
+10:03:09	Error: 	"Not Found" (404) at link https://demo.testfire.net/inside_points_of_interest.htm (from https://demo.testfire.net/index.jsp?content=inside_about.htm)
+10:03:22	Error: 	"Not Found" (404) at link https://demo.testfire.net/Privacypolicy.jsp?sec=Careers&template=US (from https://demo.testfire.net/index.jsp?content=inside_careers.htm)
+10:03:23	Error: 	"Not Found" (404) at link https://demo.testfire.net/images/icon_top.gif (from https://demo.testfire.net/index.jsp?content=security.htm)
+10:03:23	Error: 	"Not Found" (404) at link https://demo.testfire.net/GET (from https://demo.testfire.net/status_check.jsp)
+10:03:25	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link demo-analytics.testfire.net/urchin.js (from https://demo.testfire.net/index.jsp?content=personal_investments.htm)
+10:03:25	Error: 	"Not Found" (404) at link https://demo.testfire.net/default.jsp (from https://demo.testfire.net/high_yield_investments.htm)
+10:03:25	Error: 	"Not Found" (404) at link https://demo.testfire.net/altoro/images/gradient.jpg (from https://demo.testfire.net/high_yield_investments.htm)
+10:03:25	Error: 	"Not Found" (404) at link https://demo.testfire.net/security.htm (from https://demo.testfire.net/high_yield_investments.htm)
+10:03:25	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link www.exampledomainnotinuse.org/mybeacon.gif (from https://demo.testfire.net/index.jsp?content=inside_benefits.htm)
+10:03:27	Error: 	"Not Found" (404) at link https://demo.testfire.net/Documents/JohnSmith/VoluteeringInformation.pdf (from https://demo.testfire.net/index.jsp?content=inside_volunteering.htm)
+10:03:27	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link demo-analytics.testfire.net/urchin.js (from https://demo.testfire.net/index.jsp?content=personal_investments.htm)
+10:03:27	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.exampledomainnotinuse.org/mybeacon.gif (from https://demo.testfire.net/index.jsp?content=inside_benefits.htm)
+10:03:28	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.exampledomainnotinuse.org/mybeacon.gif (from https://demo.testfire.net/index.jsp?content=inside_benefits.htm)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 48 seconds : 122 links scanned, 103 files written (2173992 bytes overall) [2286111 bytes received at 13607 bytes/sec]
+(14 errors, 4 warnings, 0 messages)
